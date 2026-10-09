@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 40" fill="none">
+  <rect x="5" y="7.5" width="18.75" height="6.9" rx="3.45" fill="#3DD6C3"/>
+  <rect x="11.25" y="16.55" width="16.25" height="6.9" rx="3.45" fill="#4F8CFF"/>
+  <rect x="16.25" y="25.6" width="18.75" height="6.9" rx="3.45" fill="#7BCB6B"/>
+  <circle cx="31.9" cy="29.05" r="3.45" fill="#FF7A45"/>
+  <text x="48" y="28" font-family="Space Grotesk, system-ui, sans-serif" font-weight="700" font-size="22" letter-spacing="3.1" fill="#E8ECF3">SHAVIRA</text>
+</svg>
